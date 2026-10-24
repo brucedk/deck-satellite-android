@@ -1,0 +1,8 @@
+<resources>
+    <usb-device vendor-id="4057" product-id="96" />
+    <usb-device vendor-id="4057" product-id="109" />
+    <usb-device vendor-id="4057" product-id="128" />
+    <usb-device vendor-id="4057" product-id="165" />
+    <usb-device vendor-id="4057" product-id="108" />
+    <usb-device vendor-id="4057" product-id="143" />
+</resources>
